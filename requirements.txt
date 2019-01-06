@@ -1,3 +1,5 @@
 Requests==2.21.0
 textgenrnn==1.4.1
-# tensorflow should be downloaded/installed manually for Mac
+# WARNING: Tensorflow should be downloaded/installed manually for Mac
+Praw==6.0.0
+progressbar2==3.39.2

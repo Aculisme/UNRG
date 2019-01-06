@@ -1,1 +1,6 @@
-testvm/
+src/–system-site-packages/
+src/models/*
+src/outputs/*
+src/training/*
+src/*.hdf5
+src/test*
